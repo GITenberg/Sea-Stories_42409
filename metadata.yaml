@@ -1,0 +1,43 @@
+_repo: Sea-Stories_42409
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42409-h/images/cover.jpg
+creator:
+  editor:
+    agent_name: Brady, Cyrus Townsend
+    birthdate: 1861
+    deathdate: 1920
+    gutenberg_agent_id: '5591'
+    url: http://www.gutenberg.org/2009/agents/5591
+    wikipedia: http://en.wikipedia.org/wiki/Cyrus_Townsend_Brady
+description: ''
+gutenberg_issued: '2013-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42409'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sea stories'
+- !lcc 'PZ'
+tableOfContents: Yarns of the forecastle, by the Rev. Cyrus Townsend Brady -- The
+  mutiny of the Bounty, from Chambers's Miscellany -- Our first whale, by F. T. Bullen
+  -- Going to sea a hundred years ago, by R. J. Cleveland -- The escape of the American
+  frigate Alliance, by J. Fenimore Cooper -- Among the ice floes, by J. Fenimore Cooper
+  -- A tornado at sea, by George Cupples -- My first voyage, by R. H. Dana, Jr --
+  Running away to sea, by Daniel Defoe -- The tempest, by Charles Dickens -- A struggle
+  with a devil fish, by Victor Hugo -- The man and the cannon, by Victor Hugo -- A
+  ship on fire at sea, by Jean Ingelow -- In the Gulf Stream, by Charles Kingsley
+  -- The loss of the Royal George, by W. H. G. Kingston -- Sailors' yarns, by Pierre
+  Loti -- Equality at sea, by Captain F. Marryat -- The club-hauling of the Diomede,
+  by Captain F. Marryat -- The chase, by Herman Melville -- Rounding Cape Horn, by
+  Herman Melville -- The merchantman and the pirate, by Charles Reade -- A gale of
+  wind, by W. Clark Russell -- Saved, by W. Clark Russell -- The capture of the cotton
+  ship, by Michael Scott -- The cruise of the coracle, by R. L. Stevenson -- Landing
+  on the island, by Jean Rudolf Wyss -- Biographical notes -- Suggestions for supplementary
+  reading.
+title: Sea Stories
+url: http://www.gutenberg.org/ebooks/42409
